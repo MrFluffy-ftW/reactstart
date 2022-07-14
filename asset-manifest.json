@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactstart/static/css/main.0354ca88.css",
+    "main.js": "/reactstart/static/js/main.1977a8b0.js",
+    "static/media/image.jpg": "/reactstart/static/media/image.9c0184df5fffc2d6ab19.jpg",
+    "static/media/react.gif": "/reactstart/static/media/react.9399472c1dc8060ba591.gif",
+    "static/media/bg.jpg": "/reactstart/static/media/bg.7337fba50c590ecc7138.jpg",
+    "index.html": "/reactstart/index.html",
+    "main.0354ca88.css.map": "/reactstart/static/css/main.0354ca88.css.map",
+    "main.1977a8b0.js.map": "/reactstart/static/js/main.1977a8b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0354ca88.css",
+    "static/js/main.1977a8b0.js"
+  ]
+}
